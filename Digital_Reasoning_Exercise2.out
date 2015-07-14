@@ -1,0 +1,7 @@
+Working Directory = C:\Harinder\Profession_SW\Java\DigitalReasoning\NLP_test\scripts
+--------------Print Matching words from Noun File-------------
+nlp_data.txt file Vector #40:war  MATCHES WITH   NER.txt File Line #45:WAR
+nlp_data.txt file Vector #51:war  MATCHES WITH   NER.txt File Line #45:WAR
+nlp_data.txt file Vector #57:war  MATCHES WITH   NER.txt File Line #45:WAR
+nlp_data.txt file Vector #96:Austria-Hungary  MATCHES WITH   NER.txt File Line #4:Austria-Hungary
+nlp_data.txt file Vector #123:war  MATCHES WITH   NER.txt File Line #45:WAR

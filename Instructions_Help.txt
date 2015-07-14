@@ -1,0 +1,33 @@
+Instruction Details:
+===========================
+1) I tried to keep it simple and created 1 java file for each exercise using stand libraries only.
+   Please change the files path on top of the program
+
+
+2) Following are the files for Exercise1
+	 Digital_Reasoning_Exercise1.java  -- java file
+	 Digital_Reasoning_Exercise1.out  -- output on my PC
+	 DigitalReasoning_Exercise1.xml -- XML file created
+
+3)Following are the files for Exercise2
+	 Digital_Reasoning_Exercise2.java  -- java file
+	 Digital_Reasoning_Exercise2.out   -- output on my PC
+
+4) Following are the files for Exercise3
+ 	DigitalReasoning_Exercise3_Thread.java  -- java file
+ 	Digital_Reasoning_Exercise3_1.out   -- output on my PC
+ 	Digital_Reasoning_Exercise3_2.out   -- output on my PC
+
+
+
+Total Files in the email
+============================
+Digital_Reasoning_Exercise1.java
+Digital_Reasoning_Exercise1.out
+DigitalReasoning_Exercise1.xml
+Digital_Reasoning_Exercise2.java
+Digital_Reasoning_Exercise2.out
+DigitalReasoning_Exercise3_Thread.java
+Digital_Reasoning_Exercise3_1.out
+Digital_Reasoning_Exercise3_2.out
+Instructions_Help.txt --this file
